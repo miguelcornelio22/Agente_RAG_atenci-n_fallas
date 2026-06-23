@@ -47,5 +47,5 @@ El pipeline RAG:
 ---
 
 ## 👨‍💻 Autor
-**Miguel – Hidrocarburos del Perú**  
+**Miguel Cornelio**  
 Trabajo académico y técnico para optimizar la gestión de fallas en sistemas industriales mediante IA generativa y RAG.
